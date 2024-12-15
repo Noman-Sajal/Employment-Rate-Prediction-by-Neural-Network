@@ -1,5 +1,5 @@
 # Employment-Rate-Prediction-by-Neural-Network
-Employment Rate Prediction Based on Economic Indicators: An Interactive Analysis with Neural Network Modelling (Final year project)
+Employment Rate Prediction Based on Economic Indicators: An Interactive Analysis with Neural Network and Traditional Machine Learning Modelling (Final year project)
 
 Project Overview
 
