@@ -14,10 +14,15 @@ Compare models using metrics like MAE, MSE, R², and Accuracy (%).
 Build an interactive dashboard to visualize employment rate predictions and trends.
 ## Project Structure
 data/: Contains cleaned and processed datasets.
+
 models/: Scripts for training and evaluating machine learning models.
+
 forecasting/: ARIMA forecasting scripts for economic indicators.
+
 dashboard/: Dash-based files for interactive visualization.
+
 colab_notebooks/: Google Colab notebooks for EDA, modeling, and forecasting.
+
 results/: Outputs including model metrics and visualization assets.
 ## Key Results
 Best Model: Random Forest achieved the highest accuracy of 94.9%, outperforming all other models.
