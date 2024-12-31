@@ -1,0 +1,9 @@
+Custom License for Data Science Project
+Copyright (c) 2024 A Noman
+
+Permission is hereby granted to any individual or organization to use, reproduce, and adapt the contents of this project, including datasets, models, visualizations, and associated documentation files (the "Materials"), provided that explicit written permission is obtained from the author.
+
+Requests for permission must be sent to A Noman at nomansajalwu@gmail.com.
+
+Academic Use Exception
+This project may be accessed, reviewed, and evaluated by academic staff of the University of Hertfordshire (UH) for the purpose of grading, assessment, and academic feedback without prior permission.
